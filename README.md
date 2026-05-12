@@ -49,7 +49,7 @@ Built an interactive **Customer Behavior Dashboard** highlighting:
 - High-level KPIs (Total Customers, Average Purchase Amount, Average Review Rating).
 - Revenue and Sales breakdowns by Category and Age Group.
 - Customer distribution by Subscription Status.
-
+<img width="4872" height="2656" alt="dataanalysisworkflow" src="https://github.com/user-attachments/assets/e29a111f-d644-4355-ad06-0d9e44c02134" />
 ---
 
 ## 💡 Key Business Recommendations
